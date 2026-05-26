@@ -71,3 +71,8 @@ YouTube: https://www.youtube.com/@MeerHamzaHotak0
 Facebook: https://www.facebook.com/meerhamzahotak0
 Instagram: https://www.instagram.com/meerhamzahotak0
 TikTok: https://www.tiktok.com/@meerhamzahotak0
+
+
+## 🌐 Live Demo
+
+👉 https://meerhamzahotak.github.io/developer-portfolio/
